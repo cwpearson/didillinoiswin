@@ -1,0 +1,38 @@
+h1.yes {
+font-size: 120pt;
+margin: auto;
+text-align: center;
+color: green;
+}
+
+h1.no {
+font-size: 120pt;
+margin: auto;
+text-align: center;
+color: red;
+}
+
+h1.notyet {
+    font-size: 120pt;
+    margin: auto;
+    text-align: center;
+    color:orange; 
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+ table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 5px;
+  }
+
+  table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
