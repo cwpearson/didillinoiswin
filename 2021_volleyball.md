@@ -1,6 +1,6 @@
 ---
 title: "2021 Women's Volleyball"
-result: "YES"
+result: "no"
 ---
 
 | Date | Opponent | Result |

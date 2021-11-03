@@ -1,38 +1,59 @@
 h1.yes {
-font-size: 120pt;
-margin: auto;
-text-align: center;
-color: green;
-}
-
-h1.no {
-font-size: 120pt;
-margin: auto;
-text-align: center;
-color: red;
-}
-
-h1.notyet {
-    font-size: 120pt;
-    margin: auto;
+  font-size: 72pt;
+  margin: auto;
+  text-align: center;
+  color: green;
+  text-transform: uppercase;
+  }
+  
+  h1.no {
+  font-size: 72pt;
+  margin: auto;
+  text-align: center;
+  color: red;
+  text-transform: uppercase;
+  }
+  
+  h1.notyet {
+      font-size: 72pt;
+      margin: auto;
+      text-align: center;
+      color:orange; 
+      text-transform: uppercase;
+  }
+  
+  h1.sport {
     text-align: center;
-    color:orange; 
-}
-
-p {
-    text-align: center;
-    font-weight: bold;
-    margin-bottom: 40px;
-}
-
- table, th, td {
+  }
+  
+  table, th, td {
     border: 1px solid black;
     text-align: center;
     border-collapse: collapse;
     padding: 5px;
   }
-
-  table.center {
-    margin-left:auto; 
-    margin-right:auto;
+  
+  * {
+    box-sizing: border-box;
   }
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 5px;
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other on screens that are smaller than 600 px */
+  @media screen and (min-width: 600px) {
+    .column {
+      flex: 1;
+    }
+  } 

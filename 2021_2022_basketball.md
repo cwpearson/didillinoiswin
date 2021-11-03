@@ -1,6 +1,6 @@
 ---
 title: "2021-2022 Men's Basketball"
-result: "YES"
+result: "yes"
 ---
 
 | Date | Opponent | Result |
