@@ -20,7 +20,3 @@ Two DNS records:
 @   A     1h 104.198.14.52
 www CNAME 1h didillinoiswin.netlify.app.
 ```
-
-| Date | Opponent | Result |
-|-|-|-|
-| 11/01/2021 | Team A | [W 100-50](google.com) |
