@@ -14,7 +14,7 @@ h1.yes {
   text-transform: uppercase;
   }
   
-  h1.notyet {
+  h1[class='not yet'] {
       font-size: 72pt;
       margin: auto;
       text-align: center;
