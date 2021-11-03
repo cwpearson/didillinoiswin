@@ -5,4 +5,4 @@ result: "not yet"
 
 | Date | Opponent | Result |
 |-|-|-|
-| 11/9/2021 | Jackson State | [0-0](https://www.espn.ph/mens-college-basketball/game/_/gameId/401372110) |
+| 11/9/2021 | Jackson State | [--](https://www.espn.ph/mens-college-basketball/game/_/gameId/401372110) |
