@@ -1,4 +1,6 @@
-# didillinoiswin
+# [didillinois.win](https://didillinois.win)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f2323fec-1a46-446b-a29c-f2370e3d161a/deploy-status)](https://app.netlify.com/sites/didillinoiswin/deploys)
 
 ## Building
 
