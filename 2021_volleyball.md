@@ -1,8 +1,9 @@
 ---
 title: "2021 Women's Volleyball"
-result: "no"
+result: "yes"
 ---
 
 | Date | Opponent | Result |
 |-|-|-|
-| 11/1/2021 | Monstars Volleyball | [W 100-50](google.com) |
+| 11/4/2021  | Nebraska | -- |
+| 10/30/2021 | at Penn State | W 3-1 |
