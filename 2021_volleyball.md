@@ -27,5 +27,5 @@ result: "yes"
 | 9/4/2021 | Colorado | L 2-3 |
 | 9/3/2021 | Washington | L 1-3 |
 | 8/28/2021 | Valparaiso | W 3-0 |
-| 8/27/2021 | aat Milwaukee | W 3-0 |
+| 8/27/2021 | at Milwaukee | W 3-0 |
 | 8/27/2021 | UC Santa Barbara | W 3-2 |
