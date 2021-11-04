@@ -7,7 +7,7 @@ result: "no"
 |-|-|-|
 | 11/6/2021 | at Minnesota | [--](https://www.espn.com/college-football/game/_/gameId/401282720) |
 | 10/30/2021 | Rutgers | [L 14-20](https://www.espn.com/college-football/game/_/gameId/401282719) |
-| 10/23/2021 | at Penn State | [L 18-20](https://www.espn.com/college-football/game/_/gameId/401282717) |
+| 10/23/2021 | at Penn State | [W 20-18](https://www.espn.com/college-football/game/_/gameId/401282717) |
 | 10/9/2021 | Wisconsin | [L 0-24](https://www.espn.com/college-football/game/_/gameId/401282718) |
 | 10/2/2021 | Charlotte | [W 24-14](https://www.espn.com/college-football/game/_/gameId/401282219) |
 | 9/25/2021 | at Purdue | [L 9-13](https://www.espn.com/college-football/game/_/gameId/401282716) |
