@@ -41,7 +41,6 @@ h1.yes {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
     align-items: flex-start;
   }
   
@@ -50,6 +49,7 @@ h1.yes {
     flex-direction: column;
     flex-wrap: wrap;
     padding: 5px;
+    width: 100%;
   }
   
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other on screens that are smaller than 600 px */
