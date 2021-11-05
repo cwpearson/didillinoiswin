@@ -1,11 +1,12 @@
 ---
 title: "2021 Women's Volleyball"
-result: "yes"
+result: "no"
 ---
 
 | Date | Opponent | Result |
 |-|-|-|
-| 11/4/2021  | Nebraska | -- |
+| 11/6/2021 | Minnesota | -- |
+| 11/4/2021  | Nebraska | L 0-3 |
 | 10/30/2021 | at Penn State | W 3-1 |
 | 10/29/2021 | at Rutgers | W 3-2 |
 | 10/23/2021 | Michigan | W 3-1 |
