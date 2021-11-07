@@ -5,7 +5,7 @@ result: "no"
 
 | Date | Opponent | Result |
 |-|-|-|
-| 11/6/2021 | Minnesota | -- |
+| 11/6/2021 | Minnesota | L 0-3 |
 | 11/4/2021  | Nebraska | L 0-3 |
 | 10/30/2021 | at Penn State | W 3-1 |
 | 10/29/2021 | at Rutgers | W 3-2 |

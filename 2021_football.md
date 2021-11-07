@@ -1,11 +1,11 @@
 ---
 title: "2021 Football"
-result: "no"
+result: "yes"
 ---
 
 | Date | Opponent | Result |
 |-|-|-|
-| 11/6/2021 | at Minnesota | [--](https://www.espn.com/college-football/game/_/gameId/401282720) |
+| 11/6/2021 | at Minnesota | [W 14-6](https://www.espn.com/college-football/game/_/gameId/401282720) |
 | 10/30/2021 | Rutgers | [L 14-20](https://www.espn.com/college-football/game/_/gameId/401282719) |
 | 10/23/2021 | at Penn State | [W 20-18](https://www.espn.com/college-football/game/_/gameId/401282717) |
 | 10/9/2021 | Wisconsin | [L 0-24](https://www.espn.com/college-football/game/_/gameId/401282718) |
