@@ -5,6 +5,7 @@ result: "yes"
 
 | Date | Opponent | Result |
 |-|-|-|
+| 11/20/2021 | at Iowa  | -- | 
 | 11/6/2021 | at Minnesota | [W 14-6](https://www.espn.com/college-football/game/_/gameId/401282720) |
 | 10/30/2021 | Rutgers | [L 14-20](https://www.espn.com/college-football/game/_/gameId/401282719) |
 | 10/23/2021 | at Penn State | [W 20-18](https://www.espn.com/college-football/game/_/gameId/401282717) |
