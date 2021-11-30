@@ -5,7 +5,7 @@ result: "yes"
 
 | Date | Opponent | Result |
 |-|-|-|
-| 11/27/2021 | vs Northwestern  | [W 47-14](https://www.espn.com/college-football/game/_/gameId/401282722)| 
+| 11/27/2021 | vs Northwestern  | [W 47-14](https://www.espn.com/college-football/game/_/gameId/401282722) | 
 | 11/20/2021 | at Iowa  | [L 23-33](https://www.espn.com/college-football/game/_/gameId/401282721) | 
 | 11/6/2021 | at Minnesota | [W 14-6](https://www.espn.com/college-football/game/_/gameId/401282720) |
 | 10/30/2021 | Rutgers | [L 14-20](https://www.espn.com/college-football/game/_/gameId/401282719) |
