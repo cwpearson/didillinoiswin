@@ -5,10 +5,10 @@ result: "yes"
 
 | Date | Opponent | Result |
 |-|-|-|
-| 11/19/2021 | West Virginia | -- |
-| 11/19/2021 | at Michigan State | W 3-0 |
-| 11/19/2021 | at Michigan | L 1-3 |
-| 11/19/2021 | at Maryland | W 3-0 |
+| 12/32021 | West Virginia | -- |
+| 11/26/2021 | at Michigan State | W 3-0 |
+| 11/24/2021 | at Michigan | L 1-3 |
+| 11/21/2021 | Maryland | W 3-0 |
 | 11/19/2021 | at Indiana | W 3-0 |
 | 11/14/2021 | Ohio State | L 0-3 |
 | 11/12/2021 | Indiana | W 3-0 |
