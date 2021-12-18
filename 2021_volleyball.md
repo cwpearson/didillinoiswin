@@ -1,11 +1,13 @@
 ---
 title: "2021 Women's Volleyball"
-result: "yes"
+result: "no"
 ---
 
 | Date | Opponent | Result |
 |-|-|-|
-| 12/32021 | West Virginia | -- |
+| 12/9/2021 | Nebraska | L 0-3 |
+| 12/4/2021 | Kentucky | W 3-1 |
+| 12/3/2021 | West Virginia | W 3-1 |
 | 11/26/2021 | at Michigan State | W 3-0 |
 | 11/24/2021 | at Michigan | L 1-3 |
 | 11/21/2021 | Maryland | W 3-0 |
